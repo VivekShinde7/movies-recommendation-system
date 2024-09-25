@@ -2,6 +2,9 @@
 
 This Movie Recommender System is designed for movie lovers who want to discover films similar to the ones they already enjoy. Built using powerful machine learning techniques, this system provides personalized recommendations by analyzing movie content and similarities.
 
+## Dataset 
+-  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+  
 ## Features
 - Recommends movies based on your favorite movie.
 - Utilizes vectorization and cosine similarity for identifying movie similarities.
